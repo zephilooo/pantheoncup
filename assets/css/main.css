@@ -1723,8 +1723,8 @@ input, select, textarea {
 		input[type="reset"].style3,
 		button.style3,
 		.button.style3 {
-			background: #2f333b url("images/overlay.png");
-			color: #fff;
+			background: #ffffff url("images/overlay.png");
+			color: #0b0e13;
 		}
 
 			input[type="button"].style3:hover,
@@ -1732,7 +1732,7 @@ input, select, textarea {
 			input[type="reset"].style3:hover,
 			button.style3:hover,
 			.button.style3:hover {
-				background-color: #3f434b;
+				background-color: #8f98bb;
 			}
 
 			input[type="button"].style3:active,
@@ -1740,7 +1740,7 @@ input, select, textarea {
 			input[type="reset"].style3:active,
 			button.style3:active,
 			.button.style3:active {
-				background-color: #1f232b;
+				background-color: #8f98bb;
 			}
 
 /* List */
@@ -2061,7 +2061,7 @@ input, select, textarea {
 		justify-content: center;
 		position: relative;
 		height: 24em;
-		background: url("../../images/banner.jpg") center center;
+		background: url("../../images/banner.png") center center;
 		background-size: cover;
 		padding: 0;
 	}
@@ -2093,18 +2093,18 @@ input, select, textarea {
 			font-weight: 900;
 			text-transform: uppercase;
 			color: #fff;
-			font-size: 2em;
-			letter-spacing: 0.25em;
+			font-size: 5em;
+			letter-spacing: 0.10em;
 		}
 
 		#logo p {
 			color: #eee;
-			color: rgba(255, 255, 255, 0.5);
+			color: rgba(255, 255, 255, 0.8);
 			text-transform: uppercase;
 			margin: 1.25em 0 0 0;
 			display: block;
 			letter-spacing: 0.2em;
-			font-size: 0.9em;
+			font-size: 1.5em;
 		}
 
 /* Nav */
