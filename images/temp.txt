@@ -1,0 +1,53 @@
+<div id="content">
+										<article class="box post">
+											<header class="style1">
+												<h2>Première édition de la Coupe du Panthéon</h2>
+											</header>
+											<a href="#" class="image featured">
+												<img src="images/pic01.png" alt="" />
+											</a>
+
+											<h2>Résumé du tournoi</h2>
+
+											<p>Dès 13h, le lycée Henri IV ouvre les portes de l'immense salle des Génovéfains, une ancienne bibliothèque de l'abbaye Saint-Geneniève.
+											Aux alentours de 14h30, après une courte période d'attente,
+											le silence règne dans la salle et la première ronde commence : 10 minutes affichées
+											sur le pendule, pas une de plus.</p>
+											<div class="row gtr-150">
+												<div class="col-6 col-12-small">
+													<section class="box">
+														<a href="#" class="image featured">
+															<img src="images/2022-1.jpeg" alt="" />
+														</a></p>
+													</section>
+												</div>
+												<div class="col-6 col-12-small">
+													<section class="box">
+														<a href="#" class="image featured"><img src="images/partie2.jpeg" alt="" /></a>
+													</section>
+												</div>
+											</div>
+
+											<p>Le principe du tournoi est le même que celui des tournois officiels de la Fédération Internationale Des Échecs (FIDE).
+											Il s'agit du système suisse dont le principe est le suivant : à chaque ronde (tour) s’affrontent des joueurs qui ont eu des performances similaires.
+											Divisés en deux groupes et pendant 3h, les participants disputent 6 parties. A leur terme s'affrontent
+										</p>
+										<a href="#" class="image featured"><img src="images/2022-2.jpeg" alt="" height="10%" width="10%"/>
+
+
+										<div class="row gtr-150">
+											<div class="col-6 col-12-small">
+												<section class="box">
+													<a href="#" class="image featured"><img src="images/2022-1.jpeg" alt="" />
+													</a></p>
+												</section>
+											</div>
+											<div class="col-6 col-12-small">
+												<section class="box">
+													<a href="#" class="image featured"><img src="images/2022-2.jpeg" alt="" /></a>
+												</section>
+											</div>
+										</div>
+
+										</article>
+									</div>
